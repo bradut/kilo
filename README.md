@@ -1,4 +1,4 @@
 kilo
 ====
 
-kilo proj. test 
+Cross platform Mobile app based on Phone Gap 
