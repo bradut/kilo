@@ -11,7 +11,7 @@ Uses: Client-side data storage, Geolocation, etc.
 <img src="Documentation/Kilo-010-Summary.png" alt="Summary" width="190"/>
 <img src="Documentation/Kilo-011-Data-Entry.png" alt="Data Entry" width="190"/>
 <img src="Documentation/Kilo-013-Data-Entered-Warning.png" alt="Warning" width="190"/>
-<img src="Documentation/Kilo-020-About.png" alt="About" width="190"/>
+<!--<img src="Documentation/Kilo-020-About.png" alt="About" width="190"/>-->
 </p>
 
 Notes:
